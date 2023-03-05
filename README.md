@@ -1,5 +1,7 @@
 ## CJS/ESM badges
 
+[![Follow @voxpelli@mastodon.social](https://img.shields.io/mastodon/follow/109247025527949675?domain=https%3A%2F%2Fmastodon.social&style=social)](https://mastodon.social/@voxpelli)
+
 Pick the right one and add to your repo to, to help people see which type of module the project is.
 
 ### ECMAScript module ("ESM")
